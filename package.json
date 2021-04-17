@@ -1,0 +1,24 @@
+{
+  "name": "Testes-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TassioS/Testes-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TassioS/Testes-cypress/issues"
+  },
+  "homepage": "https://github.com/TassioS/Testes-cypress#readme",
+  "devDependencies": {
+    "cypress": "^7.1.0",
+    "eslint": "^7.24.0"
+  }
+}
